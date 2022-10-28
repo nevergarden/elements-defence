@@ -1,0 +1,5 @@
+--library heaps
+--main Main
+--class-path src
+--js bin/game.js
+--define windowSize=450x800

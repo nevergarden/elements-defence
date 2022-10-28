@@ -1,0 +1,14 @@
+{
+  "name": "elements-defence",
+  "version": "1.0.0",
+  "description": "Elements Game Prototype",
+  "scripts": {
+    "serve-client": "node serve.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
